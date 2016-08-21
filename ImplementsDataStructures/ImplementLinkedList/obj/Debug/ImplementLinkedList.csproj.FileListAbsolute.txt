@@ -1,0 +1,1 @@
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\ImplementLinkedList\ImplementLinkedList\bin\Debug\ImplementLinkedList.exe.config

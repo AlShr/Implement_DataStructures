@@ -1,0 +1,18 @@
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\ImplementLinkedList\ImplementLinkedList\obj\Debug\ImplementDataStructures.csprojResolveAssemblyReference.cache
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\ImplementLinkedList\ImplementLinkedList\bin\Debug\ImplementLinkedList.exe.config
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\ImplementLinkedList\ImplementLinkedList\bin\Debug\ImplementLinkedList.exe
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\ImplementLinkedList\ImplementLinkedList\bin\Debug\ImplementLinkedList.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\ImplementLinkedList\ImplementLinkedList\obj\Debug\ImplementLinkedList.exe
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\ImplementLinkedList\ImplementLinkedList\obj\Debug\ImplementLinkedList.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\ImplementsDataStructures\ImplementLinkedList\bin\Debug\ImplementLinkedList.exe.config
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\ImplementsDataStructures\ImplementLinkedList\obj\Debug\ImplementLinkedList.exe
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\ImplementsDataStructures\ImplementLinkedList\obj\Debug\ImplementLinkedList.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\ImplementsDataStructures\ImplementLinkedList\bin\Debug\ImplementLinkedList.exe
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\ImplementsDataStructures\ImplementLinkedList\bin\Debug\ImplementLinkedList.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\ImplementsDataStructures\ImplementLinkedList\obj\Debug\ImplementDataStructures.csprojResolveAssemblyReference.cache
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.NET _basic\ImplementsDataStructures\ImplementLinkedList\bin\Debug\ImplementLinkedList.exe.config
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.NET _basic\ImplementsDataStructures\ImplementLinkedList\obj\Debug\ImplementLinkedList.exe
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.NET _basic\ImplementsDataStructures\ImplementLinkedList\obj\Debug\ImplementLinkedList.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.NET _basic\ImplementsDataStructures\ImplementLinkedList\obj\Debug\ImplementDataStructures.csprojResolveAssemblyReference.cache
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.NET _basic\ImplementsDataStructures\ImplementLinkedList\bin\Debug\ImplementLinkedList.exe
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.NET _basic\ImplementsDataStructures\ImplementLinkedList\bin\Debug\ImplementLinkedList.pdb
